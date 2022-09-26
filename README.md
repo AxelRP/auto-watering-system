@@ -1,2 +1,4 @@
-# auto-watering-system
-Programable watering system with Arduino
+# Auto Watering System
+Programable watering system with Arduino.
+
+Documentation in progress...
